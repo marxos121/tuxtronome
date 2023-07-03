@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/Tuxtronome">
+        <file>Tux.png</file>
+        <file>audio/kick.wav</file>
+        <file>audio/metronome.wav</file>
+    </qresource>
+</RCC>
